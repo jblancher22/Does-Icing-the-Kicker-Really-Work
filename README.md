@@ -24,6 +24,13 @@ Once all of my data was extracted into a usable form, my next endeavor was to de
 
 While in the deep end of the data pool, I also calculated the error for both the “iced” bar and “non-iced” bar, but was only able to do so for groups that had both 10 “successes” (converted kicks) and 10 “failures” (missed kicks). Since my dataset was fairly small (n=817) and recognizing that it was divided between 8 groups, for many bars, a margin of error was unable to be calculated. I also assumed a confidence interval of 95%, which corresponds to a z-score of 1.96.
 
+
+
+<img width="615" alt="Screenshot 2024-09-19 at 12 12 46 PM" src="https://github.com/user-attachments/assets/5b8c04e3-e19e-4cc7-b168-24f501257d08">
+
+
+
+
 In the end, the Cochran-Mantel-Haenszel calculated a p-value of .1651. This is greater than .05, so we can conclude that there is not a statistically significant effect of “icing” a kicker on converting a field goal attempt.
 
 
