@@ -1,11 +1,11 @@
-# Does-Icing-the-Kicker-Really-Work-
+# Does-Icing-the-Kicker-Really-Work?
 All NFL fans know the feeling. Your favorite team is playing. It has been a back and forth affair, neither team firmly taking control of the game. It is finally getting down to crunch time. The two minute warning has passed, and the kicker trots on to the field, to attempt a game altering field goal. 
 
 If he is kicking for the opposing team: he looks frail and terrified. How does this guy play the same sport as DK Metcalf and Aaron Donald? 
 
 If he’s kicking for your team: he appears calm and composed. He is going to come through in the clutch once again.
 
-Regardless of which team he is playing for, the scene unfolds predictably. The kicker slows down a few feet behind the long snapper. He methodically takes two long strides backwards, and one wide stride toward his non-kicking foot. Your heart is racing as you yell “Come on! Come on!” at your TV. All of a sudden, the referees blow their whistles and the tension dissipates. The broadcast cuts to the opposing coach on the sideline, pacing nervously. He just called a timeout, hoping to disrupt and ultimately cause the kicker to fail the impending field goal attempt. Typically referred to as “icing the kicker”, this long-employed tactic forces the kicker to expend a few more anxious moments, while sowing doubt and reducing success. 
+Regardless of which team he is playing for, the scene unfolds predictably. The kicker slows down a few feet behind the long snapper. He methodically takes two long strides backwards, and one wide stride toward his non-kicking foot. Your heart is racing as you yell “Come on! Come on!” at your TV. All of a sudden, the referees blow their whistles and the tension dissipates. The broadcast cuts to the opposing coach on the sideline, pacing nervously. He just called a timeout, hoping to disrupt and ultimately cause the kicker to fail the impending field goal attempt. Typically referred to as “icing the kicker”, this long-employed tactic forces the kicker to expend a few more anxious moments, while sowing doubt and - perhaps - reducing success. 
 
 As a long-time fan of both the NFL and the predictive power of data, I have wondered: does icing the kicker actually cause a statistically significant decrease in the odds of converting the kick? Or, does it only serve as an anti-climactic, time-wasting distraction to serve up even more beer commercials? 
 
